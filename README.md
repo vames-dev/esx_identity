@@ -1,4 +1,4 @@
-# Customized ESX Identity to VMS resources
+# Customized ESX 1.11.4 Identity to VMS resources
 | Compatible Resources  |
 | ------------- |
 | ✅ vms_cityhall| 
